@@ -1,2 +1,2 @@
 # Python-project-1
-Author by Areeba Riaz
+Author by Areeba Riaz.
